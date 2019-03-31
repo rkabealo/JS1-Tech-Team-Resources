@@ -25,7 +25,7 @@
   * module
   * window
 
-7. Name and describe two possible ways for handling asynchrony in Node.js.
+7. Name and describe two possible ways for handling asynchrony in Node.js (taxonomy level: understand)
 
 8. Create a Node.js module, bin_coeff.js, which, given n and k, computes n choose k. Use this module in a sample program app.js to compute n choose k for n = 5 and k = 0. (taxonomy level: apply, evaluate, create)  
 
