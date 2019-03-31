@@ -30,3 +30,5 @@
 #### 8. Create a Node.js module, _bin_coeff.js_, which, given n and k, computes n choose k. Use this module in a sample program _app.js_ to compute n choose k for n = 5 and k = 0. (taxonomy level: apply, evaluate, create)  
 
 #### 9. Describe the advantages of Promise chaining over nested callbacks (taxonomy level: understand) 
+
+#### 10. Are all packages effectively modules? Are all modules effectively packages? 
