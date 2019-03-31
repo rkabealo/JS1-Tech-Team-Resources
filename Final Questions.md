@@ -14,14 +14,12 @@
   * V8
 
 5. Which of these global variables are available in Node.js but NOT available in a browser’s Web Console? (taxonomy level: analyze) 
-
   * document
   * exports
   * module
   * window
 
 6. Which of these global variables are NOT available in Node.js but are available in a browser’s Web Console? (taxonomy level: analyze) 
-
   * document
   * exports
   * module
