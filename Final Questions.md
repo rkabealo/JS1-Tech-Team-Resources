@@ -8,24 +8,24 @@
 3. What command is used to enter the Node.js REPL from the shell? What command is used to exit the Node.js REPL? (taxonomy level: remember) 
 
 4. Which JavaScript engine is used in Node.js? (taxonomy level: understand) 
-  A. Chakra
-  B. JavasScriptCore
-  C. SpiderMonkey
-  D. V8
+  1. Chakra
+  2. JavasScriptCore
+  3. SpiderMonkey
+  4. V8
 
 5. Which of these global variables are available in Node.js but NOT available in a browser’s Web Console? (taxonomy level: analyze) 
 
-  A. document
-  B. exports
-  C. module
-  D. window
+  1. document
+  2. exports
+  3. module
+  4. window
 
 6. Which of these global variables are NOT available in Node.js but are available in a browser’s Web Console? (taxonomy level: analyze) 
 
-  A. document
-  B. exports
-  C. module
-  D. window
+  1. document
+  2. exports
+  3. module
+  4. window
 
 7. Name and describe two possible ways for handling asynchrony in Node.js.
 
