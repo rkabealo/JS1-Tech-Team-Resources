@@ -1,6 +1,6 @@
 # How to Scrape and Parse Websites in Node.js
 
-## How to run the demo
+## Running the demo
 
 In this directory, run the following commands
 
